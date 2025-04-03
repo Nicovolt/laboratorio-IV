@@ -2,7 +2,7 @@ package ejercicio1;
 
 import java.util.ArrayList;
 
-public class mainEjercicio1_a {
+public class MainEjercicio1_a {
 
 	public static void main(String[] args) {
 		
@@ -16,7 +16,8 @@ public class mainEjercicio1_a {
 		
 		for(Profesor profesor : pro) {
 			System.out.println(profesor.toString());
-		}
-	}
+		}		
+		
+	}	
 
 }
