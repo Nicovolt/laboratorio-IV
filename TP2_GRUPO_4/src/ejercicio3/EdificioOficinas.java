@@ -1,14 +1,14 @@
 package ejercicio3;
 
-public class Oficinas implements IEdificio{
+public class EdificioOficinas implements IEdificio{
 
 	private int numeroOficinas;
 	private double superficieEdificio;
 	
-	public Oficinas() {		
+	public EdificioOficinas() {		
 	}
 	
-	public Oficinas(int numeroOficinas, double superficieEdificio) {
+	public EdificioOficinas(int numeroOficinas, double superficieEdificio) {
 		this.numeroOficinas = numeroOficinas;
 		this.superficieEdificio = superficieEdificio;
 	}

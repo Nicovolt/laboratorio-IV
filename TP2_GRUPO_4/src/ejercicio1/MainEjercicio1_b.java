@@ -36,7 +36,7 @@ public class MainEjercicio1_b {
 		Profesor pro7 = new Profesor("Rafael",39,"Fisica",13);
 				
 		listaPro.add(pro6);
-		listaPro.add(pro7);			
+		listaPro.add(pro7);		
 			
 		if(pro6.equals(pro7)) System.out.println("Es el mismo profesor");
 	}
